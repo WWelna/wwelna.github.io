@@ -1,0 +1,13 @@
+site_name: William Welna's Github & Things
+site_url: https://occultusterra.com
+repo_url: https://github.com/WWelna/
+site_author: William Welna
+nav:
+        - Home: index.md
+        - Gist: https://gist.github.com/WWelna/
+        - Blog: https://williamwelna.com
+        - Archive: https://archive.org/details/@wwelna
+        - Lua-Nyx: https://github.com/Lua-Nyx/Lua-Nyx
+        - illegalphishing: https://github.com/illegalphishing
+        - DisinfoResearch: https://github.com/DisinfoResearch
+theme: bootstrap386
